@@ -51,7 +51,7 @@ export default function About({ onBack, onNavigate }) {
 
           <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">About the creator</h2>
           <p className="text-gray-700 mb-4">
-            Created by Jamie - Jamie Williams is a writer, product strategist, and AI builder making fun, playful tools and mini-games across astrology, culture, and women's sports. She blends vibes, strategy, data, and storytelling into intuitive products people actually want to use. She's building fast with AI — and sharing everything she learns at buildwithjamie.com.
+            Created by Jamie - Jamie Williams is a writer, product strategist, and AI builder making fun, playful tools and mini-games across astrology, culture, and women's sports. She blends vibes, strategy, data, and storytelling into intuitive products people actually want to use. She's building fast with AI.
           </p>
 
           <p className="text-gray-700 mt-8">
